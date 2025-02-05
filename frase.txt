@@ -1,5 +1,0 @@
-gitgitgit
-fullstack
-html
-css
-javascript
